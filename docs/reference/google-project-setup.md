@@ -92,10 +92,6 @@ IF YOU HAVE DONE THIS BEFORE, THERE IS NO REASON TO REPEAT IT.
 
     ![](../images/gdrive-project/22-consent-scopes.png)
 
-    And "BACK TO DASHBOARD" on the final summary:
-
-    ![](../images/gdrive-project/23-consent-last.png)
-
 12. Click  "SAVE AND CONTINUE" on the test users screen:
 
     ![](../images/gdrive-project/225-test-users.png)
